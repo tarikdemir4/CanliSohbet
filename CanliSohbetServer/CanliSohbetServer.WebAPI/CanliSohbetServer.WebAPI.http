@@ -1,6 +1,0 @@
-@CanliSohbetServer.WebAPI_HostAddress = http://localhost:5298
-
-GET {{CanliSohbetServer.WebAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
